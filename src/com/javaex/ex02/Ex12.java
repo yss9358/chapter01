@@ -11,6 +11,12 @@ public class Ex12 {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		//가능한 자료형: char  byte short  int String
+		
+		//사용불가 자료형: boolean  float  double  long
+				
+		//보통  int String
+		
 		System.out.println("과목을 선택하세요");
 		System.out.println("1.자바 2.C 3.C++ 4.파이썬");
 		System.out.print("과목번호: ");
