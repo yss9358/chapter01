@@ -39,6 +39,9 @@ public class Ex11 {
 			
 		}
 		
+		// 위와같이 어떤 입력값이 하나의 실행결과를 나타내는 경우
+		// switch-case 조건문으로 사용할 수 있다.
+		
 		sc.close();
 		
 	}

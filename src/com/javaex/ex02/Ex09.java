@@ -20,7 +20,8 @@ public class Ex09 {
 			System.out.println("A등급");
 		
 		} else if(s>=80) {
-			
+			// else if(point<90&& point>+80) 으로도 작성할 수 있다.
+			// &&와 ||를 사용해 조건들을 만족하도록 작성할 수 있다.
 			System.out.println("B등급");
 		
 		} else if(s>=70) {
