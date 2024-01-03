@@ -19,7 +19,7 @@ public class Ex07 {
 		
 		// A배열의 값을 B배열에 복사
 		for (int i=0; i<arrA.length; i++) {
-			arrB = arrA;
+			arrB[i] = arrA[i];
 		}
 		
 		// A배열과 B배열을 각각 출력
